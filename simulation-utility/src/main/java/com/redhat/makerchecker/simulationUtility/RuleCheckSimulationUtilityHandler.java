@@ -29,7 +29,7 @@ import org.kie.server.client.RuleServicesClient;
 public class RuleCheckSimulationUtilityHandler implements WorkItemHandler {
 	private static final String URL = "http://localhost:8080/kie-server/services/rest/server";
 	private static final String USER = "rhpamAdmin";
-	private static final String PASSWORD = "Lost-2018";
+	private static final String PASSWORD = "password";
 	private static final MarshallingFormat FORMAT = MarshallingFormat.JSON;
 
 	private static KieServicesConfiguration conf;
