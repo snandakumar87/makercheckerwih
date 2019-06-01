@@ -1,0 +1,28 @@
+
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ì£ÇÎª-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¤ø·©8ì£ÇÎª-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‹™8ì£ÇÎª-
+asquid:S1155,">Use isEmpty() to check whether the collection is empty or not.(èÅ›¿ıÿÿÿÿ8ì£ÇÎª-
+vsquid:S1450"SRemove the "conf" field and declare it as a local variable in the relevant methods.(ŒŠüúÿÿÿÿ8ì£ÇÎª-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ì£ÇÎª-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(·½¸Øüÿÿÿÿ8ì£ÇÎª-
+Usquid:S1481'"7Remove this unused "containerForReview" local variable.(´¢Œ—8ì£ÇÎª-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(¸¾¸Îúÿÿÿÿ8ì£ÇÎª-
+dsquid:S1075j"ARefactor your code to get this URI from a customizable parameter.(Šµ¸Üÿÿÿÿÿ8àŒÿì­-
+·squid:S1192j"“Define a constant instead of duplicating this literal "/Users/sadhananandakumar/Documents/Demos/service-repo/ShellCall/src/release_jar.sh" 3 times.(Šµ¸Üÿÿÿÿÿ8àŒÿì­-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Ä–şÿÿÿÿ8àŒÿì­-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(€öÒìúÿÿÿÿ8àŒÿì­-
+Lsquid:S1481A")Remove this unused "resp" local variable.(¥¶üÿÿÿÿ8àŒÿì­-
+Qsquid:S14817".Remove this unused "releaseId" local variable.(ÇûßÆıÿÿÿÿ8àŒÿì­-
+Dsquid:S1481o"&Remove this unused "p" local variable.(’·ïê8àŒÿì­-
+esquid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ïõø°8àŒÿì­-
+[squid:S1854A"8Remove this useless assignment to local variable "resp".(¥¶üÿÿÿÿ8àŒÿì­-
+[squid:S1854?"=Remove this useless assignment to local variable "releaseId".(©É‘‚8àŒÿì­-
+Ssquid:S1854o"5Remove this useless assignment to local variable "p".(’·ïê8àŒÿì­-
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àŒÿì­-

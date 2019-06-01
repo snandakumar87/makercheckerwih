@@ -1,0 +1,14 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÕóÄ8Éó‡Š°-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸¾¸Îúÿÿÿÿ8Éó‡Š°-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜œîöúÿÿÿÿ8Éó‡Š°-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö´÷øùÿÿÿÿ8Éó‡Š°-
+Esquid:S1481")Remove this unused "json" local variable.(ÃîÁò8Éó‡Š°-
+Tsquid:S1854"8Remove this useless assignment to local variable "json".(ÃîÁò8Éó‡Š°-
+Wsquid:UselessImportCheck".Remove this unused import 'com.eventAnalysis'.(Ô™ö©8Éó‡Š°-
+Rsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8Éó‡Š°-
+jsquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ8Éó‡Š°-
+Zsquid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§8Éó‡Š°-

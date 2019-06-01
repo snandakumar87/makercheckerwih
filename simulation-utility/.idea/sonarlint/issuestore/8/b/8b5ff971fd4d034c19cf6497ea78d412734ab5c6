@@ -1,0 +1,7 @@
+
+csquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(—ÊÄº
+nsquid:S00116"SRename this field "_lengths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú™°âþÿÿÿÿ
+nsquid:S00116"SRename this field "_hasNext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õó±Óüÿÿÿÿ
+nsquid:S00116"SRename this field "_indices" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õü—Ïøÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Xsquid:S4348"CRefactor this code so that the Iterator supports multiple traversal(ü¿œ©
