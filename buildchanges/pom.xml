@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.makerchecker</groupId>
 	<artifactId>buildchanges-workitem-handler</artifactId>
-	<version>1.0.8</version>
+	<version>1.0.9</version>
 	<name>buildchanges</name>
 	<description>The simples WorkItemHandler for jbpm 6</description>
 

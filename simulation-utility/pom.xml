@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.makerchecker</groupId>
 	<artifactId>simulationutility</artifactId>
-	<version>1.6.2</version>
+	<version>1.6.3</version>
 
 	<name>Simulation utility for Rule Check</name>
 	<description>Rule Check utility</description>

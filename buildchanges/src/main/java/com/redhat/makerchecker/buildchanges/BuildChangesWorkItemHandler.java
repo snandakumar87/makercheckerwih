@@ -16,9 +16,9 @@ import org.kie.server.client.KieServicesFactory;
 
 public class BuildChangesWorkItemHandler implements WorkItemHandler {
 	private static final String URL = "http://localhost:8080/kie-server/services/rest/server";
-	private static final String USER = "rhpamAdmin";
-	private static final String PASSWORD = "password";
-	private static final String BUILD_JAR_PATH = "/Users/sadhananandakumar/Desktop/hello-world-work-item-handler-master/buildchanges/src/main/resources/build_jar.sh";
+	private static final String USER = "pamAdmin";
+	private static final String PASSWORD = "redhatpam1!";
+	private static final String BUILD_JAR_PATH = "../resources/build_jar.sh";
 	private static final MarshallingFormat FORMAT = MarshallingFormat.JSON;
 
 	private static KieServicesConfiguration conf;

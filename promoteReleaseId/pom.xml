@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.makerchecker</groupId>
 	<artifactId>promoterelease</artifactId>
-	<version>1.7.0</version>
+	<version>1.7.1</version>
 	<name>promote-workitem-handler</name>
 	<description>The simples WorkItemHandler for jbpm 6</description>
 
