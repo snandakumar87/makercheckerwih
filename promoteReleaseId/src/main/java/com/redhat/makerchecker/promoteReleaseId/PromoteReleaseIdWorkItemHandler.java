@@ -22,7 +22,7 @@ public class PromoteReleaseIdWorkItemHandler implements WorkItemHandler {
 
 	private static KieServicesConfiguration conf;
 	private static KieServicesClient kieServicesClient;
-	private static final String FILE_PATH="/Users/sadhananandakumar/Documents/Demos/service-repo/ShellCall/src/release_jar.sh";
+	private static final String FILE_PATH="../resources/release_jar.sh";
 
 
 	public static void initialize() {
